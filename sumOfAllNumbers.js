@@ -16,7 +16,7 @@ function sumOfAll(numbers){
 }
 
 
-const numbers = [ 20, 25, 12, 15, 34];
-const sum = sumOfAll(numbers);
+const numbs = [ 20, 25, 12, 15, 34];
+const sum = sumOfAll(numbs);
 
 console.log(sum);
